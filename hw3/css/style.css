@@ -184,3 +184,10 @@ footer{
 	font-size: 12px;
 	margin:0;
 }
+
+/* extra */
+#text {
+	content:"";
+	width: 0px;
+}
+	
