@@ -25,6 +25,7 @@ h1{
 .right-side{
 	display: block;
 	float: right;
+	padding-top: 15px;
 	padding-bottom: 0px;
 	margin-bottom: 17px;
 }
