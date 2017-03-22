@@ -178,10 +178,10 @@ footer{
 	margin:0;
 }
 .side-footer{
+	
 	padding-top: 25px;
-	padding-left: 479px;
 	font-family: 'ArialMT Regular',sans-serif;
 	color: #EDF2C5;
 	font-size: 12px;
-	margin:0;
+	margin:auto;
 }
